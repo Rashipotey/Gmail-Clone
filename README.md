@@ -1,4 +1,4 @@
-#  Gmail Clone
+#  Gmail-Clone
 
 A responsive, feature-rich Gmail clone built using **React** for the frontend and **Firebase** for authentication and real-time backend services.
 
